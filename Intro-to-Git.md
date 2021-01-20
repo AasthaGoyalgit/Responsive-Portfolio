@@ -28,3 +28,6 @@ Now open the 'Terminal' window in Visual Studio and write the following instruct
       $ git push -u origin main
 
 <em>Congratulations! You just created your first commit in github!</em>
+
+# 3. Fork Repository
+Fork <a href="https://github.com/UAceIt-Winter-of-Mentorship/Responsive-Portfolio.git">this</a> repository by clicking on the 'Fork' icon at top right.
